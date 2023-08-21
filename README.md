@@ -9,7 +9,7 @@ Estes são os desafios do módulo "Dominando o Python para Ciências de Dados" d
 
 # Desafio-2
 Desafio 2 "Otimizando o Sistema Bancário com Funções Python":
-. Transformar as opções do menu do **Desafio-1** em funções
-. Criar mais duas funções:
-  - Criar usuário
-  - Criar conta corrente
+  - Transformar as opções do menu do **Desafio-1** em funções
+  - Criar mais duas funções:
+    . Criar usuário
+    . Criar conta corrente
